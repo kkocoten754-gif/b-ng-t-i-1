@@ -55,8 +55,8 @@ local Tabs = {
 -- TAB 1: Các kênh tiktok
 ------------------------------------------------
 Tabs.Main0:AddButton({
-	Title = "tiktok bạn:)",      kocoten        -- 👈 tên nút
-	Description = "oách xà lách vô cùng",-- 👈 mô tả nút
+	Title = "bóng tối",      kocoten        -- 👈 tên nút
+	Description = "bóng tối",-- 👈 mô tả nút
 	Callback = function()
 		setclipboard("https://www.tiktok.com/@jannie3342?_t=ZS-90QsJQ5j0NO&_r=1")  -- 👈 link sao chép
 	end
@@ -83,7 +83,7 @@ Tabs.Main0:AddButton({
 ------------------------------------------------
 Tabs.Main1:AddButton({
 	Title = "kocoten",               kocoten              -- 👈 tên nút hiển thị
-	Description = "script này ngon á đủ chức năng cả😃",-- 👈 mô tả
+	Description = "bóng tối",-- mô tả
 	Callback = function()
 		local Settings = {
 			JoinTeam = "Pirates";   -- 👈 team mặc định: Pirates hoặc Marines
@@ -91,7 +91,7 @@ Tabs.Main1:AddButton({
 		}
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/AX-Archive/ArceusXArchive/refs/heads/main/Tora%20Isme"))()
 	end
-})
-� link script tải
+})loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Fly-gui-v3-30439"))()
+� link script tải
 	end
-})
+})loadstring(game:HttpGet("https://raw.githubusercontent.com/Mark22028/Auto-Kyoto-Combo/refs/heads/main/Skibidi%20Sigma%20Combo.txt"))()
